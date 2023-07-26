@@ -1,5 +1,4 @@
 ![logo](https://github.com/agomi123/agomi123/blob/main/work.png)
-
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate Competitive Programmer and Android Developer</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU">
