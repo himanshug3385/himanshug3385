@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **himanshugupta3385@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/npKR7](https://shorturl.at/npKR7)
+- 📄 Know about my experiences [Profile](https://bit.ly/3YRp6GC)
 
 - ⚡ Fun fact **I am coding Enthusiast😎**
 
