@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agomi123&label=Profile%20views&color=0e75b6&style=flat" alt="agomi123" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Spring Boot, AWS**
+- 🌱 I’m currently learning **System Design, Spring Boot, AWS**
 
 - 👨‍💻 All of my projects are available at [https://agomi123.github.io/Himanshu_Protfolio/](https://agomi123.github.io/Himanshu_Protfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@himanshugupta3385](https://medium.com/@himanshugupta3385)
 
-- 💬 Ask me about **Android Development, Competitive Programming, DSA, C++, Reactjs,AWS**
+- 💬 Ask me about **Android Development, Competitive Programming, DSA, C++, Spring boot,AWS**
 
 - 📫 How to reach me **himanshugupta3385@gmail.com**
 
